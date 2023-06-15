@@ -5,7 +5,7 @@ last_name = "Juarez"
 age = 19
 height = 1.60
 is_student = True
-geoup = ["3C"] 
+group = ["3C"] 
 
 #Function type
 print(type(name))
